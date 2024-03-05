@@ -1,0 +1,7 @@
+C:\Users\arbaj\source\repos\arbaj01\datatype_1\bin\Debug\datatype_1.exe.config
+C:\Users\arbaj\source\repos\arbaj01\datatype_1\bin\Debug\datatype_1.exe
+C:\Users\arbaj\source\repos\arbaj01\datatype_1\bin\Debug\datatype_1.pdb
+C:\Users\arbaj\source\repos\arbaj01\datatype_1\obj\Debug\datatype_1.csproj.AssemblyReference.cache
+C:\Users\arbaj\source\repos\arbaj01\datatype_1\obj\Debug\datatype_1.csproj.CoreCompileInputs.cache
+C:\Users\arbaj\source\repos\arbaj01\datatype_1\obj\Debug\datatype_1.exe
+C:\Users\arbaj\source\repos\arbaj01\datatype_1\obj\Debug\datatype_1.pdb
