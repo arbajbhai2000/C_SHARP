@@ -1,0 +1,7 @@
+C:\Users\arbaj\source\repos\arbaj01\operator\bin\Debug\@operator.exe.config
+C:\Users\arbaj\source\repos\arbaj01\operator\bin\Debug\@operator.exe
+C:\Users\arbaj\source\repos\arbaj01\operator\bin\Debug\@operator.pdb
+C:\Users\arbaj\source\repos\arbaj01\operator\obj\Debug\operator.csproj.AssemblyReference.cache
+C:\Users\arbaj\source\repos\arbaj01\operator\obj\Debug\operator.csproj.CoreCompileInputs.cache
+C:\Users\arbaj\source\repos\arbaj01\operator\obj\Debug\@operator.exe
+C:\Users\arbaj\source\repos\arbaj01\operator\obj\Debug\@operator.pdb
