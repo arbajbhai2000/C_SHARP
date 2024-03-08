@@ -4,34 +4,78 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _2_Generationoperators
+namespace stringtype
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            IEnumerable<int>numbers1= Enumerable.Empty<int>();
-            Console.WriteLine($"{numbers1.Count()} ");
+            string name = "Arbaj";
+            Console.WriteLine(name);
 
-            IEnumerable<int>numbers2=Enumerable.DefaultIfEmpty<int>(numbers1);
-            Console.WriteLine($"{numbers2.Count()} :{numbers2.ElementAt(0)}");
+            name = "    arbaj";
+            Console.WriteLine(name);
 
-            IEnumerable<int> numbers3 = Enumerable.Repeat(5, 10);
-            foreach(var item in numbers3)
-            {
-                Console.Write($"{item}");
-            }
-            Console.WriteLine();
+            name = "    arbaj    ";
+            Console.WriteLine(name.Trim());
 
-            IEnumerable<int> numbers4 = Enumerable.Range(1, 25);
-            foreach (var item in numbers4)
-            {
-                Console.Write($"{item} ");
-            }
-            Console.WriteLine();
+            name = "novfil";
+            Console.WriteLine(name.ToLower());
+            Console.WriteLine(name.ToUpper());
 
+            name = "\"arbaj\"";
+            Console.WriteLine(name);
+
+            name = "\'arbaj\'";
+            Console.WriteLine(name);
+
+            name = "arbaj mujawar";
+            Console.WriteLine(name);
+
+            Console.WriteLine("arbaj\nmujawar");
+            Console.WriteLine("arbaj\tmujawar");
+
+            string path = @"C:\DOT NET\C# lect\github code\B22CSharpDemos-master";
+            Console.WriteLine(path);
+
+            string firstname = "arbaj";
+            string lastname = "mujawar";
+            string fullname = firstname + lastname;
+            Console.WriteLine(fullname);
+
+            fullname = firstname + " " + lastname;
+            Console.WriteLine(fullname);
+
+            fullname = string.Concat(firstname, " ", lastname);
+            Console.WriteLine(fullname);
+
+            string middlename = "jalaluddin";
+            Console.WriteLine(middlename);
+
+            fullname = string.Concat(firstname," ", middlename," ", lastname);
+            Console.WriteLine(fullname);
+
+            Console.WriteLine(fullname.ToUpper());
+
+            fullname = string.Join(" ", firstname, middlename, lastname);
+            Console.WriteLine(fullname);
+
+            fullname = string.Format("fullname:{0} {1} {2}", firstname, middlename, lastname);
+            Console.WriteLine(fullname);
+
+            fullname = $"fullname : {firstname} {middlename} {lastname}";
+            Console.WriteLine(fullname);
+
+            fullname=$"surname : {lastname}";
+            Console.WriteLine(fullname);
 
             Console.ReadLine();
+
+
+
+
+
+
         }
     }
 }
