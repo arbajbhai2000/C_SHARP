@@ -1,0 +1,7 @@
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\7_conditionalstatement\bin\Debug\7_conditionalstatement.exe.config
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\7_conditionalstatement\bin\Debug\7_conditionalstatement.exe
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\7_conditionalstatement\bin\Debug\7_conditionalstatement.pdb
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\7_conditionalstatement\obj\Debug\7_conditionalstatement.csproj.AssemblyReference.cache
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\7_conditionalstatement\obj\Debug\7_conditionalstatement.csproj.CoreCompileInputs.cache
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\7_conditionalstatement\obj\Debug\7_conditionalstatement.exe
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\7_conditionalstatement\obj\Debug\7_conditionalstatement.pdb
