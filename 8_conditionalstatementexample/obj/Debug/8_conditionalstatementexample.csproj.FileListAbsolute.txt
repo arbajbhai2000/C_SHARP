@@ -1,0 +1,7 @@
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\8_conditionalstatementexample\bin\Debug\8_conditionalstatementexample.exe.config
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\8_conditionalstatementexample\bin\Debug\8_conditionalstatementexample.exe
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\8_conditionalstatementexample\bin\Debug\8_conditionalstatementexample.pdb
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\8_conditionalstatementexample\obj\Debug\8_conditionalstatementexample.csproj.AssemblyReference.cache
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\8_conditionalstatementexample\obj\Debug\8_conditionalstatementexample.csproj.CoreCompileInputs.cache
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\8_conditionalstatementexample\obj\Debug\8_conditionalstatementexample.exe
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\8_conditionalstatementexample\obj\Debug\8_conditionalstatementexample.pdb
