@@ -1,0 +1,7 @@
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\9_loopingstatement\bin\Debug\9_loopingstatement.exe.config
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\9_loopingstatement\bin\Debug\9_loopingstatement.exe
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\9_loopingstatement\bin\Debug\9_loopingstatement.pdb
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\9_loopingstatement\obj\Debug\9_loopingstatement.csproj.AssemblyReference.cache
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\9_loopingstatement\obj\Debug\9_loopingstatement.csproj.CoreCompileInputs.cache
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\9_loopingstatement\obj\Debug\9_loopingstatement.exe
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\9_loopingstatement\obj\Debug\9_loopingstatement.pdb
