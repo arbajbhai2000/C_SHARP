@@ -1,0 +1,7 @@
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\10_ArrayDemo\bin\Debug\10_ArrayDemo.exe.config
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\10_ArrayDemo\bin\Debug\10_ArrayDemo.exe
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\10_ArrayDemo\bin\Debug\10_ArrayDemo.pdb
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\10_ArrayDemo\obj\Debug\10_ArrayDemo.csproj.AssemblyReference.cache
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\10_ArrayDemo\obj\Debug\10_ArrayDemo.csproj.CoreCompileInputs.cache
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\10_ArrayDemo\obj\Debug\10_ArrayDemo.exe
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\10_ArrayDemo\obj\Debug\10_ArrayDemo.pdb
