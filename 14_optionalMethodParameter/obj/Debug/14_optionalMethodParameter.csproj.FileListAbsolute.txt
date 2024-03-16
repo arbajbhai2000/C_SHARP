@@ -1,0 +1,7 @@
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\14_optionalMethodParameter\bin\Debug\14_optionalMethodParameter.exe.config
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\14_optionalMethodParameter\bin\Debug\14_optionalMethodParameter.exe
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\14_optionalMethodParameter\bin\Debug\14_optionalMethodParameter.pdb
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\14_optionalMethodParameter\obj\Debug\14_optionalMethodParameter.csproj.AssemblyReference.cache
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\14_optionalMethodParameter\obj\Debug\14_optionalMethodParameter.csproj.CoreCompileInputs.cache
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\14_optionalMethodParameter\obj\Debug\14_optionalMethodParameter.exe
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\14_optionalMethodParameter\obj\Debug\14_optionalMethodParameter.pdb
