@@ -1,0 +1,7 @@
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\16_BoxingAndUnboxing\bin\Debug\16_BoxingAndUnboxing.exe.config
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\16_BoxingAndUnboxing\bin\Debug\16_BoxingAndUnboxing.exe
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\16_BoxingAndUnboxing\bin\Debug\16_BoxingAndUnboxing.pdb
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\16_BoxingAndUnboxing\obj\Debug\16_BoxingAndUnboxing.csproj.AssemblyReference.cache
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\16_BoxingAndUnboxing\obj\Debug\16_BoxingAndUnboxing.csproj.CoreCompileInputs.cache
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\16_BoxingAndUnboxing\obj\Debug\16_BoxingAndUnboxing.exe
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\16_BoxingAndUnboxing\obj\Debug\16_BoxingAndUnboxing.pdb
