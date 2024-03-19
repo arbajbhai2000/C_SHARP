@@ -1,0 +1,7 @@
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\17_ClassObjectDemo\bin\Debug\17_ClassObjectDemo.exe.config
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\17_ClassObjectDemo\bin\Debug\17_ClassObjectDemo.exe
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\17_ClassObjectDemo\bin\Debug\17_ClassObjectDemo.pdb
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\17_ClassObjectDemo\obj\Debug\17_ClassObjectDemo.csproj.AssemblyReference.cache
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\17_ClassObjectDemo\obj\Debug\17_ClassObjectDemo.csproj.CoreCompileInputs.cache
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\17_ClassObjectDemo\obj\Debug\17_ClassObjectDemo.exe
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\17_ClassObjectDemo\obj\Debug\17_ClassObjectDemo.pdb
