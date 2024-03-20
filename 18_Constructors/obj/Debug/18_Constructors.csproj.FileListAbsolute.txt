@@ -1,0 +1,7 @@
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\18_Constructors\bin\Debug\18_Constructors.exe.config
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\18_Constructors\bin\Debug\18_Constructors.exe
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\18_Constructors\bin\Debug\18_Constructors.pdb
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\18_Constructors\obj\Debug\18_Constructors.csproj.AssemblyReference.cache
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\18_Constructors\obj\Debug\18_Constructors.csproj.CoreCompileInputs.cache
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\18_Constructors\obj\Debug\18_Constructors.exe
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\18_Constructors\obj\Debug\18_Constructors.pdb
