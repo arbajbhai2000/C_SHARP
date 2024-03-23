@@ -1,0 +1,7 @@
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\21_Methodoverriding\bin\Debug\21_Methodoverriding.exe.config
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\21_Methodoverriding\bin\Debug\21_Methodoverriding.exe
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\21_Methodoverriding\bin\Debug\21_Methodoverriding.pdb
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\21_Methodoverriding\obj\Debug\21_Methodoverriding.csproj.AssemblyReference.cache
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\21_Methodoverriding\obj\Debug\21_Methodoverriding.csproj.CoreCompileInputs.cache
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\21_Methodoverriding\obj\Debug\21_Methodoverriding.exe
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\21_Methodoverriding\obj\Debug\21_Methodoverriding.pdb
