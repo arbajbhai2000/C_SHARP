@@ -1,0 +1,7 @@
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\22_Methodoverriding_questions\bin\Debug\22_Methodoverriding_questions.exe.config
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\22_Methodoverriding_questions\bin\Debug\22_Methodoverriding_questions.exe
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\22_Methodoverriding_questions\bin\Debug\22_Methodoverriding_questions.pdb
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\22_Methodoverriding_questions\obj\Debug\22_Methodoverriding_questions.csproj.AssemblyReference.cache
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\22_Methodoverriding_questions\obj\Debug\22_Methodoverriding_questions.csproj.CoreCompileInputs.cache
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\22_Methodoverriding_questions\obj\Debug\22_Methodoverriding_questions.exe
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\22_Methodoverriding_questions\obj\Debug\22_Methodoverriding_questions.pdb
