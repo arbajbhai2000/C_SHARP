@@ -1,0 +1,7 @@
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\23_MultipleClassInheritenceproblem\bin\Debug\23_MultipleClassInheritenceproblem.exe.config
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\23_MultipleClassInheritenceproblem\bin\Debug\23_MultipleClassInheritenceproblem.exe
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\23_MultipleClassInheritenceproblem\bin\Debug\23_MultipleClassInheritenceproblem.pdb
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\23_MultipleClassInheritenceproblem\obj\Debug\23_MultipleClassInheritenceproblem.csproj.AssemblyReference.cache
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\23_MultipleClassInheritenceproblem\obj\Debug\23_MultipleClassInheritenceproblem.csproj.CoreCompileInputs.cache
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\23_MultipleClassInheritenceproblem\obj\Debug\23_MultipleClassInheritenceproblem.exe
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\23_MultipleClassInheritenceproblem\obj\Debug\23_MultipleClassInheritenceproblem.pdb
