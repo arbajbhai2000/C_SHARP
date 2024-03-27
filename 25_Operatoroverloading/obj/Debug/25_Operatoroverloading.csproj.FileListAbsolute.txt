@@ -1,0 +1,7 @@
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\25_Operatoroverloading\bin\Debug\25_Operatoroverloading.exe.config
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\25_Operatoroverloading\bin\Debug\25_Operatoroverloading.exe
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\25_Operatoroverloading\bin\Debug\25_Operatoroverloading.pdb
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\25_Operatoroverloading\obj\Debug\25_Operatoroverloading.csproj.AssemblyReference.cache
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\25_Operatoroverloading\obj\Debug\25_Operatoroverloading.csproj.CoreCompileInputs.cache
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\25_Operatoroverloading\obj\Debug\25_Operatoroverloading.exe
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\25_Operatoroverloading\obj\Debug\25_Operatoroverloading.pdb
