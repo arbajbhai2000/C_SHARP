@@ -1,0 +1,7 @@
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\27_Abstractkeyword\bin\Debug\27_Abstractkeyword.exe.config
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\27_Abstractkeyword\bin\Debug\27_Abstractkeyword.exe
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\27_Abstractkeyword\bin\Debug\27_Abstractkeyword.pdb
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\27_Abstractkeyword\obj\Debug\27_Abstractkeyword.csproj.AssemblyReference.cache
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\27_Abstractkeyword\obj\Debug\27_Abstractkeyword.csproj.CoreCompileInputs.cache
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\27_Abstractkeyword\obj\Debug\27_Abstractkeyword.exe
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\27_Abstractkeyword\obj\Debug\27_Abstractkeyword.pdb
