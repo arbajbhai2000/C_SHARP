@@ -1,0 +1,37 @@
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        int number = 17; // Change this to the number you want to check
+        bool isPrime = IsPrime(number);
+
+        if (isPrime)
+        {
+            Console.WriteLine(number + " is a prime number.");
+        }
+        else
+        {
+            Console.WriteLine(number + " is not a prime number.");
+        }
+    }
+
+    static bool IsPrime(int num)
+    {
+        if (num <= 1)
+        {
+            return false;
+        }
+
+        for (int i = 2; i <= Math.Sqrt(num); i++)
+        {
+            if (num % i == 0)
+            {
+                return false;
+            }
+        }
+
+        return true;
+    }
+}
