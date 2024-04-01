@@ -1,0 +1,7 @@
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\28_Sealedkeyword\bin\Debug\28_Sealedkeyword.exe.config
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\28_Sealedkeyword\bin\Debug\28_Sealedkeyword.exe
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\28_Sealedkeyword\bin\Debug\28_Sealedkeyword.pdb
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\28_Sealedkeyword\obj\Debug\28_Sealedkeyword.csproj.AssemblyReference.cache
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\28_Sealedkeyword\obj\Debug\28_Sealedkeyword.csproj.CoreCompileInputs.cache
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\28_Sealedkeyword\obj\Debug\28_Sealedkeyword.exe
+C:\DOT NET\C# lect\arbajdemo\source\repos\arbaj01\28_Sealedkeyword\obj\Debug\28_Sealedkeyword.pdb
