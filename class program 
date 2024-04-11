@@ -1,0 +1,35 @@
+using System;
+
+public class Car
+{
+    // Fields
+    private string brand;
+    private string model;
+    private int year;
+
+    // Constructor
+    public Car(string brand, string model, int year)
+    {
+        this.brand = brand;
+        this.model = model;
+        this.year = year;
+    }
+
+    // Method to display car information
+    public void DisplayInfo()
+    {
+        Console.WriteLine($"Brand: {brand}, Model: {model}, Year: {year}");
+    }
+}
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        // Creating a new instance of the Car class
+        Car myCar = new Car("Toyota", "Camry", 2022);
+
+        // Calling the method to display car information
+        myCar.DisplayInfo();
+    }
+}
