@@ -1,0 +1,19 @@
+using System;
+
+class Program
+{
+    // Method to add two numbers
+    static int Add(int a, int b)
+    {
+        return a + b;
+    }
+
+    static void Main(string[] args)
+    {
+        // Call the Add method and store the result in a variable
+        int result = Add(5, 3);
+        
+        // Print the result
+        Console.WriteLine("Result: " + result);
+    }
+}
