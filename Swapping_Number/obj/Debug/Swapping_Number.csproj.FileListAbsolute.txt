@@ -1,0 +1,7 @@
+C:\Users\arbaj\source\repos\PracticePrograms\Swapping_Number\bin\Debug\Swapping_Number.exe.config
+C:\Users\arbaj\source\repos\PracticePrograms\Swapping_Number\bin\Debug\Swapping_Number.exe
+C:\Users\arbaj\source\repos\PracticePrograms\Swapping_Number\bin\Debug\Swapping_Number.pdb
+C:\Users\arbaj\source\repos\PracticePrograms\Swapping_Number\obj\Debug\Swapping_Number.csproj.AssemblyReference.cache
+C:\Users\arbaj\source\repos\PracticePrograms\Swapping_Number\obj\Debug\Swapping_Number.csproj.CoreCompileInputs.cache
+C:\Users\arbaj\source\repos\PracticePrograms\Swapping_Number\obj\Debug\Swapping_Number.exe
+C:\Users\arbaj\source\repos\PracticePrograms\Swapping_Number\obj\Debug\Swapping_Number.pdb
