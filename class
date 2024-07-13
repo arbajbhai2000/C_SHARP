@@ -1,0 +1,53 @@
+using System;
+
+namespace ExampleNamespace
+{
+    // Define a class named Person
+    public class Person
+    {
+        // Fields
+        private string name;
+        private int age;
+
+        // Constructor
+        public Person(string name, int age)
+        {
+            this.name = name;
+            this.age = age;
+        }
+
+        // Properties
+        public string Name
+        {
+            get { return name; }
+            set { name = value; }
+        }
+
+        public int Age
+        {
+            get { return age; }
+            set { age = value; }
+        }
+
+        // Method
+        public void Introduce()
+        {
+            Console.WriteLine($"Hello, my name is {name} and I am {age} years old.");
+        }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // Create an instance of the Person class
+            Person person1 = new Person("Alice", 30);
+
+            // Access properties and methods
+            person1.Introduce();
+            person1.Name = "Bob";
+            person1.Age = 25;
+            person1.Introduce();
+        }
+    }
+}
