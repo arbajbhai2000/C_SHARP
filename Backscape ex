@@ -1,0 +1,17 @@
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        string quote = "He said, \"Hello, World!\""; // Includes double quotes within the string
+        string path = "C:\\Program Files\\MyApp"; // Includes backslashes in the path
+        string multiLine = "First line\nSecond line"; // Newline character to break the string into two lines
+
+        Console.WriteLine(quote); // Outputs: He said, "Hello, World!"
+        Console.WriteLine(path); // Outputs: C:\Program Files\MyApp
+        Console.WriteLine(multiLine); // Outputs: 
+                                      // First line
+                                      // Second line
+    }
+}
