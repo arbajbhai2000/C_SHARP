@@ -1,0 +1,18 @@
+using System;
+
+namespace OverrideExample
+{
+    // Base class
+    class BaseClass
+    {
+        // Virtual method in the base class
+        public virtual void Display()
+        {
+            Console.WriteLine("Display method in BaseClass");
+        }
+    }
+
+    // Derived class
+    class DerivedClass : BaseClass
+    {
+        // Overriding the virtual m
